@@ -36,9 +36,6 @@ Watch the trained agent in action:
 - **Frameworks Used:** `PyTorch`, `OpenAI Gym`, `Matplotlib`
 - **DQN Improvements:**
   - Experience Replay
-  - Target Network
-  - Reward Clipping
-  - Frame Stacking
 
 ## 📌 **File Structure**
 
